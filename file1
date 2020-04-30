@@ -1,0 +1,7 @@
+practiced git commands
+git config --global user.name "user_name"
+git config --global user.email "email_id"
+git clone
+git add
+git commit -m "messege"
+git push
